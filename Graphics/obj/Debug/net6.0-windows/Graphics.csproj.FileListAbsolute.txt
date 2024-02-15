@@ -1,0 +1,16 @@
+C:\Users\block\Downloads\CSHARP\Graphics\bin\Debug\net6.0-windows\Graphics.exe
+C:\Users\block\Downloads\CSHARP\Graphics\bin\Debug\net6.0-windows\Graphics.deps.json
+C:\Users\block\Downloads\CSHARP\Graphics\bin\Debug\net6.0-windows\Graphics.runtimeconfig.json
+C:\Users\block\Downloads\CSHARP\Graphics\bin\Debug\net6.0-windows\Graphics.dll
+C:\Users\block\Downloads\CSHARP\Graphics\bin\Debug\net6.0-windows\Graphics.pdb
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.Form1.resources
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.GenerateResource.cache
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfoInputs.cache
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfo.cs
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.dll
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\refint\Graphics.dll
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.pdb
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\Graphics.genruntimeconfig.cache
+C:\Users\block\Downloads\CSHARP\Graphics\obj\Debug\net6.0-windows\ref\Graphics.dll
